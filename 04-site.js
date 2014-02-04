@@ -253,3 +253,8 @@ function check_required_details()
         $('input[name=btn_submit]').prop('disabled', 'disabled');
     }
 }
+
+function new_f ()
+{
+    
+}
